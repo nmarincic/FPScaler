@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import javax.swing.JFileChooser;
 import javax.swing.SwingUtilities;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
 import controlP5.ControlEvent;
 import controlP5.ControlListener;
 import controlP5.ControlP5;

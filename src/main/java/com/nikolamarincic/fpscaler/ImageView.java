@@ -1,7 +1,6 @@
 package com.nikolamarincic.fpscaler;
 
 
-import java.nio.file.Path;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
